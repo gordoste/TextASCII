@@ -1,0 +1,24 @@
+{
+    "name": "TextASCII",
+    "authors": [
+      {
+        "name": "Stephen Gordon",
+        "email": "gordoste@iinet.net.au"
+      }
+    ],
+    "keywords": "Text library",
+    "description": "Display and scroll text on MAX7219",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gordoste/TextASCII.git"
+    },
+    "frameworks": "arduino",
+    "platforms": [
+      "esp8266",
+      "esp32",
+      "espressif32",
+      "espressif8266",
+      "atmelavr"
+    ]
+  }
+  
